@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>000001168.jpg</filename>
+	<path>/home/shubham/Desktop/workspace/training/images/000001168.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>680</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>google</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>489</xmin>
+			<ymin>208</ymin>
+			<xmax>900</xmax>
+			<ymax>343</ymax>
+		</bndbox>
+	</object>
+</annotation>

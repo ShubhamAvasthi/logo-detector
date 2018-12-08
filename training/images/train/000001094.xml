@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>000001094.jpg</filename>
+	<path>/home/shubham/Desktop/workspace/training/images/000001094.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>322</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ford</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>132</xmin>
+			<ymin>67</ymin>
+			<xmax>382</xmax>
+			<ymax>176</ymax>
+		</bndbox>
+	</object>
+</annotation>

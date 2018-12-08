@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>000001033.jpg</filename>
+	<path>/home/shubham/Desktop/workspace/training/images/000001033.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ferrari</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>128</xmin>
+			<ymin>70</ymin>
+			<xmax>389</xmax>
+			<ymax>318</ymax>
+		</bndbox>
+	</object>
+</annotation>
