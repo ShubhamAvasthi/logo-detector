@@ -45,7 +45,7 @@ def detect_in_video():
     # used for the detections but with the detections overlays. Keep in
     # mind the frame size has to be the same as original video.
     out = cv2.VideoWriter('../testing/test_output.avi', cv2.VideoWriter_fourcc(
-        'M', 'J', 'P', 'G'), 10, (412, 224))
+        'M', 'J', 'P', 'G'), 24, (412, 224))
 
     detection_graph = tf.Graph()
     with detection_graph.as_default():
