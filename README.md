@@ -3,7 +3,7 @@ A custom model trained using Tensorflow's object detection API to detect some co
 
 Currently, the model does not perform well on some specific kinds of inputs because it was trained on a very small dataset.
 
-## Preview of the final results (high speed internet connectivity required):-
+## Preview of the final results:-
 
 ![Test Output](https://github.com/ShubhamAvasthi/logo-detector/blob/master/testing/test_output.gif)
 
